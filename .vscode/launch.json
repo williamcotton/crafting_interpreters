@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch HelloWorld",
+      "request": "launch",
+      "mainClass": "v1.HelloWorld",
+      "projectName": "crafting_interpreters_8f3ebc78"
+    }
+  ]
+}
