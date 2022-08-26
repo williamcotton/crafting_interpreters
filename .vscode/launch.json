@@ -2,9 +2,9 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Launch HelloWorld",
+      "name": "Launch Lox",
       "request": "launch",
-      "mainClass": "v1.HelloWorld",
+      "mainClass": "v1.Lox",
       "projectName": "crafting_interpreters_8f3ebc78"
     }
   ]
